@@ -3,10 +3,10 @@
 ***테이블 정의서***
 
 1. DEVICES
-|COLUMN|TYPE|NN|KEY|DESCRIPTION|
-|------|----|--|---|-----------|
-|device_id|varchar(25)|NN|PK|디바이스 식별 아이디|
-|device_name|varchar(255)|NN| |디바이스 이름|
+|COLUMN     |TYPE        |NN|KEY|DESCRIPTION         |
+|-----------|------------|--|---|--------------------|
+|device_id  |varchar(25) |NN|PK |디바이스 식별 아이디|
+|device_name|varchar(255)|NN|   |디바이스 이름       |
 
 2. USAGE
 |COLUMN|TYPE|NN|KEY|DESCRIPTION|
